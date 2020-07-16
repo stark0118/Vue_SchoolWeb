@@ -1,4 +1,4 @@
-# vuetify
+# Vue_SchoolWeb
 
 ## Project setup
 ```
